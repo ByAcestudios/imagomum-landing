@@ -14,6 +14,7 @@ export default function Footer() {
               width={140}
               height={45}
               className="mb-6"
+              unoptimized
             />
             <p className="text-gray-300 text-sm">
               © {new Date().getFullYear()} Imago MUM. All Rights Reserved.
